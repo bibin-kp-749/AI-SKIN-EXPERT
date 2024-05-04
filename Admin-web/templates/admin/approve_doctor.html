@@ -1,0 +1,40 @@
+{% extends 'admin/adminindex.html' %}
+{% block body %}
+
+
+<body>
+<form id="form1" name="form1" method="post" action="">
+
+<table class="table table-bordered table-hover">
+  <tr class="table-primary">
+    <th width="41">Sl.no</th>
+    <th width="46">Name</th>
+    <th width="47">Email</th>
+    <th width="48">Phone</th>
+    <th width="59">Qualification</th>
+    <th width="58">Gender</th>
+    <th width="89">Experience</th>
+    <th width="46">Place</th>
+    <th width="156">Status</th>
+      <th>        </th>
+      <th>        </th>
+  </tr>
+    {% for i in val %}
+  <tr>
+    <td>{{ loop.index }}</td>
+    <td>{{ i.Name }}</td>
+    <td>{{ i.Email }}&nbsp;</td>
+    <td>{{ i.Phone_No }}&nbsp;</td>
+    <td>{{ i.Qualification }}&nbsp;</td>
+    <td>{{ i.Gender }}</td>
+    <td>{{ i.Experiance }}</td>
+    <td>{{ i.Place }}</td>
+      <td>{{ i.Status }}</td>
+    <td><a href="/approve/{{ i.Login_id }}" class="btn btn-success">Approve </a></td>
+    <td><a href="/reject/{{ i.Login_id }}" class="btn btn-danger" onclick="return confirm('Are You Sure?')">Reject</a></td>
+  </tr>
+    {% endfor %}
+</table>
+</form>
+</body>
+{% endblock %}

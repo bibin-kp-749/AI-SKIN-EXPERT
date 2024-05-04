@@ -1,0 +1,37 @@
+{% extends 'admin/adminindex.html' %}
+{% block body %}
+
+
+<body>
+<form id="form1" name="form1" method="post" action="">
+  <table class="table table-bordered">
+    <tr class="table-primary">
+      <th width="43">Sl.no</th>
+      <th width="68">Disease name</th>
+      <th width="47">Image</th>
+      <th width="66">Description</th>
+{#      <th width="84">Symptom</th>#}
+      <th width="89">Type</th>
+      <th width="111">&nbsp;</th>
+      <th width="126">&nbsp;</th>
+        <th></th>
+      <th></th>
+    </tr>
+      {% for i in val %}
+    <tr>
+      <td>&nbsp;{{ loop.index}}</td>
+      <td>&nbsp;{{ i.Disease_Name }}</td>
+      <td><img src="{{ i.Image }}" width="100" height="100"></td>
+      <td>{{ i.Description }}</td>
+{#      <td>{{ i.Symptoms }}</td>#}
+      <td>{{ i.Type }}</td>
+        <td><a href="/symptom/{{ i.Disease_id }}" class="btn btn-success">AddSymptom</a></td>
+      <td><a href="/viewsymptom2/{{ i.Disease_id }}" class="btn btn-info">ViewSymptom</a></td>
+      <td><a href="/edisease/{{ i.Disease_id }}" class="btn btn-info">Edit</a></td>
+      <td><a href="/delete_disease/{{ i.Disease_id }}" ONCLICK="return confirm('Are You Sure?')" class="btn btn-danger">Delete</a></td>
+    </tr>
+      {% endfor %}
+  </table>
+</form>
+</body>
+{% endblock %}

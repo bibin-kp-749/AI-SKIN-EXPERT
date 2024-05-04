@@ -1,0 +1,32 @@
+{% extends 'Doctor/docindex.html' %}
+{% block body %}
+
+
+<body>
+<form id="form1" name="form1" method="post" action="">
+  <table class="table table-bordered table-hover">
+    <tr>
+      <th>Sl.No</th>
+      <th>Patient Name</th>
+      <th>Phone No</th>
+      <th>Age</th>
+      <th>Gender</th>
+      <th>Place</th>
+        <th>Date</th>
+    </tr>
+      {% for i in val %}
+    <tr>
+      <td>{{ loop.index }}</td>
+      <td>{{ i.Name }}</td>
+      <td>&nbsp;{{ i.Phone_No }}</td>
+      <td>{{ i.Age }}&nbsp;</td>
+      <td>{{ i.Gender }}&nbsp;</td>
+      <td>{{ i.Place }}&nbsp;</td>
+      <td>{{ i.Date }}</td>
+    </tr>
+      {% endfor %}
+  </table>
+
+</form>
+</body>
+{% endblock %}

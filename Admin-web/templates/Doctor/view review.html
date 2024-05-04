@@ -1,0 +1,26 @@
+{% extends 'Doctor/docindex.html' %}
+{% block body %}
+
+
+
+<body>
+<table class="table table-bordered table-hover">
+  <tr>
+    <th>Sl.No</th>
+    <th>Date</th>
+    <th>Time</th>
+      <th>User's name</th>
+    <th>Review</th>
+  </tr>
+    {% for i in val %}
+  <tr>
+    <td>{{ loop.index }}</td>
+    <td>{{ i.Date }}&nbsp;</td>
+    <td>&nbsp;{{ i.Time }}</td>
+      <td>{{ i.Name }}</td>
+    <td>{{ i.Review }}&nbsp;</td>
+  </tr>
+    {% endfor %}
+</table>
+</body>
+{% endblock %}

@@ -1,0 +1,30 @@
+{% extends 'Doctor/docindex.html' %}
+{% block body %}
+
+
+
+<body>
+<form id="form1" name="form1" method="post" action="/schedule_manage">
+  <table  class="table table-hover table-bordered">
+    <tr>
+      <th width="45" height="27">Sl No</th>
+         <th width="44">Date</th>
+      <th width="42">From Time</th>
+      <th width="61">To Time</th>
+    </tr>
+      {% for i in val %}
+    <tr>
+      <td>{{ loop.index }}</td>
+      <td>{{ i.Date }}</td>
+      <td>{{ i.From_time }}</td>
+      <td>{{ i.To_time }}</td>
+      <td><p><a href="/edit_schedule/{{ i.Schedule_id }}" class="btn btn-info">Edit</a></p>
+      <p><a href="/delete_schedule/{{ i.Schedule_id }}" class="btn btn-danger">Delete</a></p>
+      <p><a href="/appointments/{{ i.Schedule_id }}" class="btn btn-success">Appointment</a></p></td>
+    </tr>
+      {% endfor %}
+   
+  </table>
+</form>
+</body>
+{% endblock %}

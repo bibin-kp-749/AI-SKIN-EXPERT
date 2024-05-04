@@ -1,0 +1,26 @@
+{% extends 'Doctor/docindex.html' %}
+{% block body %}
+
+<body>
+<form id="form1" name="form1" method="post" action="/dr_viewdisease">
+<table width="687" border="1">
+  <tr>
+    <th width="69">Sl.No</th>
+    <th width="146">Disease Name</th>
+    <th width="113">Image</th>
+    <th width="128">Description</th>
+    <th width="82">Type</th>
+  </tr>
+    {% for i in val %}
+  <tr>
+    <td>{{ loop.index }}&nbsp;</td>
+    <td>{{ i.Disease_Name }}&nbsp;</td>
+    <td><img src="{{ i.Image }}" width="100" height="100"></td>
+    <td>{{ i.Description }}</td>
+    <td>{{ i.Type }}&nbsp;</td>
+  </tr>
+    {% endfor %}
+</table>
+</form>
+</body>
+{% endblock %}

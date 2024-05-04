@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view"
+    tools:ignore="MissingDefaultResource">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/home"
+            android:title="Home" />
+
+
+        <item
+            android:id="@+id/nav_feedback"
+            android:icon="@drawable/feedback"
+            android:title="Feedback" />
+
+        <item
+            android:id="@+id/nav_viewdoctor"
+            android:icon="@drawable/doctor"
+            android:title="Doctors" />
+
+
+        <item
+            android:id="@+id/nav_doctorappointment"
+            android:icon="@drawable/appointment"
+            android:title="Doctor Appointment" />
+
+
+        <item
+            android:id="@+id/nav_viewdiseases"
+            android:icon="@drawable/vision"
+            android:title="Diseases" />
+
+
+        <item
+            android:id="@+id/nav_predictimage"
+            android:icon="@drawable/picture"
+            android:title="Predict Disease By Image" />
+
+
+        <item
+            android:id="@+id/nav_predictsymptom"
+            android:icon="@drawable/search"
+            android:title="Predict Disease By Symptom" />
+
+
+
+        <item
+            android:id="@+id/nav_changepassword"
+            android:icon="@drawable/padlock"
+            android:title="Change Password" />
+
+
+
+        <item
+            android:id="@+id/nav_logout"
+            android:icon="@drawable/logout"
+            android:title="Logout" />
+
+
+
+
+
+
+
+
+    </group>
+</menu>

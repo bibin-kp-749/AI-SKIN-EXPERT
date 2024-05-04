@@ -1,0 +1,48 @@
+
+{% extends 'Doctor/docindex.html' %}
+{% block body %}
+
+<body>
+
+<form id="form1" name="form1" method="post" action="">
+<table class="table table-hover table-bordered">
+    <tr>
+        <td colspan="2" align="center"><img src="{{  val["Photo"] }}" width="100" height="100"></td>
+    </tr>
+  <tr>
+    <th width="175">Name</th>
+    <td width="68">{{ val["Name"] }}</td>
+  </tr>
+  <tr>
+    <th>Email</th>
+    <td>{{ val["Email"] }}</td>
+  </tr>
+  <tr>
+    <th>Phone Number</th>
+    <td>{{ val["Phone_No"] }}</td>
+  </tr>
+  <tr>
+    <th>Qualification</th>
+    <td>{{ val["Qualification"] }}</td>
+  </tr>
+  <tr>
+    <th>Gender</th>
+    <td>{{ val["Gender"] }}</td>
+  </tr>
+  <tr>
+    <th>Experience</th>
+    <td>{{ val["Experiance"] }}</td>
+  </tr>
+  <tr>
+    <th>Place</th>
+    <td>{{ val["Place"] }}</td>
+  </tr>
+    <tr>
+
+        <td colspan="2"><a href="/dr_update#ab" class="btn btn-info">Edit</a></td>
+    </tr>
+
+</table>
+</form>
+</body>
+{% endblock %}

@@ -1,0 +1,47 @@
+{% extends 'admin/adminindex.html' %}
+{% block body %}
+
+<body>
+<form action="/edisease_post" method="post" enctype="multipart/form-data" name="form1" id="form1">
+    <input type="hidden" name="id" value="{{ val['Disease_id'] }}"/>
+  <table class="table table-bordered ">
+    <tr>
+      <th>Disease name</th>
+      <td><label for="textfield"></label>
+      <input type="text" name="textfield" id="textfield" value="{{ val['Disease_Name'] }}" /></td>
+    </tr>
+    <tr>
+      <th>Image</th>
+
+      <th>
+          <img src="{{ val['Image'] }}" height="50%" width="50%" alt="NO IMAGE ">
+          <input type="file" name="fileField" id="fileField" /></th>
+    </tr>
+    <tr>
+      <th>Description</th>
+      <td><label for="textarea"></label>
+      <textarea name="textarea" id="textarea" cols="45" rows="5" >{{ val['Description'] }}</textarea></td>
+    </tr>
+    <tr>
+      <th colspan="2"><label for="select">Type</label>
+          <select name="select" id="select">
+          <option>Viral infection</option>
+          <option>Bacterial infection</option>
+               <option>Fungal infection</option>
+               <option>Parasitic infection</option>
+               <option>Genetic</option>
+               <option>Allergic</option>
+               <option>Chronic</option>
+              <option>Radiation</option>
+      </select></th>
+    </tr>
+    <tr>
+      <td colspan="2"><label>
+        <input type="submit" name="button" id="button" value="Edit" class="btn btn-info" />
+      </label></td>
+    </tr>
+  </table>
+</form>
+    
+</body>
+{% endblock %}

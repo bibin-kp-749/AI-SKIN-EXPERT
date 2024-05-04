@@ -1,0 +1,33 @@
+{% extends 'Doctor/docindex.html' %}
+{% block body %}
+
+<body>
+<form id="form1" name="form1" method="post" action="/add_schedule_post">
+  <p>&nbsp;</p>
+  <table class=" table table-hover table-bordered">
+       <tr>
+      <th>Date</th>
+      <td><label>
+        <input type="date" name="textfield3" id="textfield3" />
+    </label>      </td>
+    <tr>
+    <tr>
+      <th width="168">From Time</th>
+      <td width="270"><label>
+        <input type="text" name="textfield" id="textfield" />
+      </label></td>
+    </tr>
+    <tr>
+      <th>To Time</th>
+      <td><label>
+        <input type="text" name="textfield2" id="textfield2" />
+      </label></td>
+    </tr>
+    <tr>
+      <td align="center" height="26" colspan="2"><input type="submit" name="button" id="button" value="ADD" class="btn btn-success"/></td>
+    </tr>
+  </table>
+  <p>&nbsp;</p>
+</form>
+</body>
+{% endblock %}

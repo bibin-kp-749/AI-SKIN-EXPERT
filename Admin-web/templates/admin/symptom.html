@@ -1,0 +1,20 @@
+{% extends 'admin/adminindex.html' %}
+{% block body %}
+
+<body>
+<form id="form1" name="form1" method="post" action="/symptoms_post">
+    <input type="hidden" name="id" value="{{ val.Disease_id }}"/>
+  <table width="200" border="1">
+    <tr>
+      <td>Symptom Details</td>
+      <td><label>
+        <textarea name="textarea" id="textarea" cols="45" rows="5"></textarea>
+      </label></td>
+    </tr>
+    <tr>
+      <td colspan="2"><input type="submit" name="button" id="button" class="btn btn-info" value="Add" /></td>
+    </tr>
+  </table>
+</form>
+</body>
+{% endblock %}

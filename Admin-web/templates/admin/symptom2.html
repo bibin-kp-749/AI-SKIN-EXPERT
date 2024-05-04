@@ -1,0 +1,24 @@
+{% extends 'admin/adminindex.html' %}
+{% block body %}
+
+<body>
+<form id="form1" name="form1" method="post" action="/symptoms_post2">
+    <table class="table table-bordered table-hover table-striped">
+      <tr><td>Disease</td><td><select name="select">
+        {% for i in val %}
+          <option value="{{ i.Disease_id }}">{{ i.Disease_Name }}</option>
+        {% endfor %}
+      </select></td></tr>
+    <tr>
+      <td>Symptom Details</td>
+      <td><label>
+        <textarea name="textarea" id="textarea" cols="45" rows="5"></textarea>
+      </label></td>
+    </tr>
+    <tr>
+      <td colspan="2"><input type="submit" name="button" id="button" value="Add" /></td>
+    </tr>
+  </table>
+</form>
+</body>
+{% endblock %}

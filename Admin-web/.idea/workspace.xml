@@ -1,0 +1,1333 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="98c53818-7c89-4d64-a40c-4e81c1cfed3f" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/Admin$training_file.coverage" NAME="training_file Coverage Results" MODIFIED="1674196555493" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Admin$Admin.coverage" NAME="Admin Coverage Results" MODIFIED="1680508541775" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file leaf-file-name="regindex.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/Doctor/regindex.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="125">
+              <caret line="30" column="45" lean-forward="false" selection-start-line="30" selection-start-column="45" selection-end-line="30" selection-end-column="45" />
+              <folding>
+                <element signature="n#style#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="style.min.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/static/admin/css/style.min.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-13371">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="style.scss" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/static/admin/scss/style.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="149">
+              <caret line="169" column="23" lean-forward="false" selection-start-line="169" selection-start-column="20" selection-end-line="169" selection-end-column="23" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Admin.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Admin.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="182">
+              <caret line="353" column="38" lean-forward="false" selection-start-line="353" selection-start-column="38" selection-end-line="353" selection-end-column="38" />
+              <folding>
+                <element signature="e#1#20#0" expanded="true" />
+                <marker date="1677138221026" expanded="true" signature="520:534" ph="select * fro... doctor" />
+                <marker date="1677138221026" expanded="true" signature="520:539" ph="select * fro... login" />
+                <marker date="1677138221026" expanded="true" signature="520:545" ph="select * fro... login" />
+                <marker date="1677138221026" expanded="true" signature="520:556" ph="select * fro... login" />
+                <marker date="1677138221026" expanded="true" signature="520:569" ph="select * fro... login" />
+                <marker date="1677138221026" expanded="true" signature="520:572" ph="select * fro... login" />
+                <marker date="1677138221026" expanded="true" signature="520:573" ph="select * fro... login" />
+                <marker date="1677138221026" expanded="true" signature="520:583" ph="select * fro... login" />
+                <marker date="1677138221026" expanded="true" signature="520:584" ph="select * fro... login" />
+                <marker date="1677138221026" expanded="true" signature="520:597" ph="select * fro... login" />
+                <marker date="1677138221026" expanded="true" signature="1179:1222" ph="select * fro... doctor" />
+                <marker date="1677138221026" expanded="true" signature="1179:1236" ph="select * fro... doctor" />
+                <marker date="1677138221026" expanded="true" signature="1410:1468" ph="UPDATE `doct... " />
+                <marker date="1677138221026" expanded="true" signature="1410:1480" ph="UPDATE `doct... " />
+                <marker date="1677138221026" expanded="true" signature="1519:1577" ph="UPDATE `logi... " />
+                <marker date="1677138221026" expanded="true" signature="1519:1589" ph="UPDATE `logi... " />
+                <marker date="1677138221026" expanded="true" signature="1766:1832" ph="update `doct... " />
+                <marker date="1677138221026" expanded="true" signature="1772:1820" ph="DELETE FROM " />
+                <marker date="1677138221026" expanded="true" signature="1772:1832" ph="DELETE FROM " />
+                <marker date="1677138221026" expanded="true" signature="1923:1971" ph="SELECT * FRO... doctor" />
+                <marker date="1677138221026" expanded="true" signature="2543:2627" ph="insert into disease... " />
+                <marker date="1677138221026" expanded="true" signature="2569:2627" ph="INSERT INTO disease... " />
+                <marker date="1677138221026" expanded="true" signature="2745:2785" ph="select * fro... disease" />
+                <marker date="1677138221026" expanded="true" signature="2745:2794" ph="select * fro... disease" />
+                <marker date="1677138221026" expanded="true" signature="2745:2797" ph="select * fro... disease" />
+                <marker date="1677138221026" expanded="true" signature="3549:3562" ph="insert into disease... " />
+                <marker date="1677138221026" expanded="true" signature="3549:3712" ph="insert into disease... " />
+                <marker date="1677138221026" expanded="true" signature="3777:3918" ph="update disea... " />
+                <marker date="1677138221026" expanded="true" signature="4002:4145" ph="update disea... " />
+                <marker date="1677138221026" expanded="true" signature="4002:4146" ph="update disea... " />
+                <marker date="1677138221026" expanded="true" signature="4349:4370" ph="select * fro... disease" />
+                <marker date="1677138221026" expanded="true" signature="4550:4588" ph="delete from " />
+                <marker date="1677138221026" expanded="true" signature="4550:4592" ph="delete from " />
+                <marker date="1677138221026" expanded="true" signature="4550:4595" ph="delete from " />
+                <marker date="1677138221026" expanded="true" signature="4765:4786" ph="select * fro... disease" />
+                <marker date="1677138221026" expanded="true" signature="5006:5157" ph="select `symp... symptoms" />
+                <marker date="1677138221026" expanded="true" signature="5006:5167" ph="select `symp... symptoms" />
+                <marker date="1677138221026" expanded="true" signature="5006:5168" ph="select `symp... symptoms" />
+                <marker date="1677138221026" expanded="true" signature="5368:5389" ph="select * fro... disease" />
+                <marker date="1677138221026" expanded="true" signature="5425:5465" ph="SELECT DISTI... symptoms" />
+                <marker date="1677138221026" expanded="true" signature="5901:5951" ph="SELECT `Symp... symptoms" />
+                <marker date="1677138221026" expanded="true" signature="5901:5973" ph="SELECT `Symp... symptoms" />
+                <marker date="1677138221026" expanded="true" signature="5901:5975" ph="SELECT `Symp... symptoms" />
+                <marker date="1677138221026" expanded="true" signature="5901:5976" ph="SELECT `Symp... symptoms" />
+                <marker date="1677138221026" expanded="true" signature="6514:6576" ph="SELECT * FRO... disease" />
+                <marker date="1677138221026" expanded="true" signature="6983:7036" ph="SELECT * FRO... symptoms" />
+                <marker date="1677138221026" expanded="true" signature="7193:7242" ph="select * fro... disease" />
+                <marker date="1677138221026" expanded="true" signature="7420:7466" ph="delete from " />
+                <marker date="1677138221026" expanded="true" signature="7735:7798" ph="insert into symptoms... " />
+                <marker date="1677138221026" expanded="true" signature="8027:8090" ph="insert into symptoms... " />
+                <marker date="1677138221026" expanded="true" signature="8221:8346" ph="select `symp... symptoms" />
+                <marker date="1677138221026" expanded="true" signature="8547:8572" ph="select Sympt... symptoms" />
+                <marker date="1677138221026" expanded="true" signature="8547:8589" ph="select Sympt... symptoms" />
+                <marker date="1677138221026" expanded="true" signature="8547:8601" ph="select Sympt... symptoms" />
+                <marker date="1677138221026" expanded="true" signature="8841:8871" ph="update sympt... " />
+                <marker date="1677138221026" expanded="true" signature="8841:8884" ph="update sympt... " />
+                <marker date="1677138221026" expanded="true" signature="8841:8903" ph="update sympt... " />
+                <marker date="1677138221026" expanded="true" signature="8841:8929" ph="update sympt... " />
+                <marker date="1677138221026" expanded="true" signature="9113:9131" ph="select * fro... user" />
+                <marker date="1677138221026" expanded="true" signature="9277:9341" ph="SELECT * fro... feedback" />
+                <marker date="1677138221026" expanded="true" signature="9488:9549" ph="select * fro... reviews" />
+                <marker date="1677138221026" expanded="true" signature="10700:10779" ph="insert into login... " />
+                <marker date="1677138221026" expanded="true" signature="10823:10993" ph="insert into doctor... " />
+                <marker date="1677138221026" expanded="true" signature="11278:11339" ph="select * fro... doctor" />
+                <marker date="1677138221026" expanded="true" signature="11505:11526" ph="select * fro... disease" />
+                <marker date="1677138221026" expanded="true" signature="11685:11750" ph="select * fro... doctor" />
+                <marker date="1677138221026" expanded="true" signature="12516:12747" ph="UPDATE docto... " />
+                <marker date="1677138221026" expanded="true" signature="12802:13061" ph="UPDATE docto... " />
+                <marker date="1677138221026" expanded="true" signature="13496:13584" ph="select * fro... login" />
+                <marker date="1677138221026" expanded="true" signature="13681:13762" ph="update login... " />
+                <marker date="1677138221026" expanded="true" signature="14432:14569" ph="insert into schedule... " />
+                <marker date="1677138221026" expanded="true" signature="14763:14785" ph="select * fro... schedule" />
+                <marker date="1677138221026" expanded="true" signature="14982:15036" ph="select * fro... schedule" />
+                <marker date="1677138221026" expanded="true" signature="15345:15476" ph="update sched... " />
+                <marker date="1677138221026" expanded="true" signature="15614:15666" ph="delete from " />
+                <marker date="1677138221026" expanded="true" signature="15854:15991" ph="SELECT * FRO... user" />
+                <marker date="1677138221026" expanded="true" signature="16157:16198" ph="select * fro... appointment" />
+                <marker date="1677138221026" expanded="true" signature="16360:16484" ph="SELECT * FRO... reviews" />
+                <marker date="1677138221026" expanded="true" signature="17289:17378" ph="insert into login... " />
+                <marker date="1677138221026" expanded="true" signature="17413:17588" ph="insert into user... " />
+                <marker date="1677138221026" expanded="true" signature="17808:17876" ph="update login... " />
+                <marker date="1677138221026" expanded="true" signature="18070:18113" ph="select * fro... user" />
+                <marker date="1677138221026" expanded="true" signature="18981:19003" ph="UPDATE USER " />
+                <marker date="1677138221026" expanded="true" signature="18981:19074" ph="UPDATE USER " />
+                <marker date="1677138221026" expanded="true" signature="18981:19120" ph="UPDATE USER " />
+                <marker date="1677138221026" expanded="true" signature="18981:19126" ph="UPDATE USER " />
+                <marker date="1677138221026" expanded="true" signature="18981:19138" ph="UPDATE USER " />
+                <marker date="1677138221026" expanded="true" signature="18981:19146" ph="UPDATE USER " />
+                <marker date="1677138221026" expanded="true" signature="18981:19147" ph="UPDATE USER " />
+                <marker date="1677138221026" expanded="true" signature="19220:19368" ph="UPDATE USER " />
+                <marker date="1677138221026" expanded="true" signature="19536:19556" ph="select * fro... doctor" />
+                <marker date="1677138221026" expanded="true" signature="19761:19809" ph="select * fro... schedule" />
+                <marker date="1677138221026" expanded="true" signature="20060:20154" ph="INSERT INTO `appointment`... " />
+                <marker date="1677138221026" expanded="true" signature="20379:20495" ph="INSERT INTO `feedback`... " />
+                <marker date="1677138221026" expanded="true" signature="20650:20671" ph="select * fro... disease" />
+                <marker date="1677138221026" expanded="true" signature="20834:20874" ph="SELECT DISTI... symptoms" />
+                <marker date="1677138221026" expanded="true" signature="21072:21282" ph="SELECT * FRO... appointment" />
+                <marker date="1677138221026" expanded="true" signature="21529:21614" ph="select * fro... login" />
+                <marker date="1677138221026" expanded="true" signature="23753:23771" ph="select * fro... glcm" />
+                <marker date="1677138221026" expanded="true" signature="24489:24535" ph="SELECT * FRO... disease" />
+                <marker date="1677138221026" expanded="true" signature="24489:24542" ph="SELECT * FRO... disease" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/static/login/css/style.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1197">
+              <caret line="84" column="11" lean-forward="true" selection-start-line="84" selection-start-column="11" selection-end-line="84" selection-end-column="11" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/static/doctorreg/css/style.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="126">
+              <caret line="33" column="58" lean-forward="false" selection-start-line="33" selection-start-column="58" selection-end-line="33" selection-end-column="58" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="doctrregbg.jpg" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/static/doctorreg/images/doctrregbg.jpg">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="docregbg2.jpg" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/static/doctorreg/images/docregbg2.jpg">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="font-awesome.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/static/login/css/font-awesome.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-3297">
+              <caret line="167" column="16" lean-forward="false" selection-start-line="167" selection-start-column="2" selection-end-line="167" selection-end-column="16" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="420">
+              <caret line="38" column="35" lean-forward="false" selection-start-line="38" selection-start-column="35" selection-end-line="38" selection-end-column="35" />
+              <folding>
+                <marker date="1680506259293" expanded="false" signature="2684:2690" ph="©" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Flask Main" />
+        <option value="Python Script" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>css</find>
+      <find>jpg</find>
+      <find>Login</find>
+      <find>850</find>
+      <find>adminindex</find>
+      <find>sif</find>
+      <find>file</find>
+      <find>user_typefeedback</find>
+      <find>delete_disease</find>
+      <find>err</find>
+      <find>usersignup</find>
+      <find>edit_sym</find>
+      <find>symptom</find>
+      <find>edi</find>
+      <find>edit_sy</find>
+      <find>symptoms_po</find>
+      <find>edit_symptom</find>
+      <find>viewsymptom2</find>
+      <find>edit_symptompost</find>
+      <find>/prediction</find>
+      <find>block body</find>
+      <find>#ab</find>
+      <find>login-form-w3-agile</find>
+      <find>dr_home</find>
+      <find>pro</find>
+      <find>sched</find>
+      <find>body</find>
+      <find>doctor_signup</find>
+      <find>img</find>
+      <find>login</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/templates/view user.html" />
+        <option value="$PROJECT_DIR$/templates/home.html" />
+        <option value="$PROJECT_DIR$/templates/view feedback.html" />
+        <option value="$PROJECT_DIR$/templates/view symptom.html" />
+        <option value="$PROJECT_DIR$/templates/view doctor review.html" />
+        <option value="$PROJECT_DIR$/templates/symptom.html" />
+        <option value="$PROJECT_DIR$/templates/disease.html" />
+        <option value="$PROJECT_DIR$/Doctor.py" />
+        <option value="$PROJECT_DIR$/DBConnection.py" />
+        <option value="$PROJECT_DIR$/templates/admin/edit_disease.html" />
+        <option value="$PROJECT_DIR$/templates/Doctor/home.html" />
+        <option value="$PROJECT_DIR$/templates/admin/login.html" />
+        <option value="$PROJECT_DIR$/templates/Doctor/createdaccount.html" />
+        <option value="$PROJECT_DIR$/templates/Doctor/login.html" />
+        <option value="$PROJECT_DIR$/templates/Doctor/edit schedule.html" />
+        <option value="$PROJECT_DIR$/templates/Doctor/doctorhome.html" />
+        <option value="$PROJECT_DIR$/templates/ltemp.html" />
+        <option value="$PROJECT_DIR$/templates/Doctor/accountcreation.html" />
+        <option value="$PROJECT_DIR$/templates/Doctor/registerindex.html" />
+        <option value="$PROJECT_DIR$/templates/admin/aindex.html" />
+        <option value="$PROJECT_DIR$/templates/admin/view doctor review.html" />
+        <option value="$PROJECT_DIR$/templates/admin/view feedback.html" />
+        <option value="$PROJECT_DIR$/templates/admin/view symptom.html" />
+        <option value="$PROJECT_DIR$/templates/admin/view user.html" />
+        <option value="$PROJECT_DIR$/templates/admin/home.html" />
+        <option value="$PROJECT_DIR$/templates/admin/approve_doctor.html" />
+        <option value="$PROJECT_DIR$/templates/Doctor/addschedule.html" />
+        <option value="$PROJECT_DIR$/templates/Doctor/view appointment.html" />
+        <option value="$PROJECT_DIR$/templates/Doctor/view review.html" />
+        <option value="$PROJECT_DIR$/templates/Doctor/password.html" />
+        <option value="$PROJECT_DIR$/templates/admin/approved.html" />
+        <option value="$PROJECT_DIR$/templates/Doctor/update account.html" />
+        <option value="$PROJECT_DIR$/templates/admin/disease.html" />
+        <option value="$PROJECT_DIR$/training_file.py" />
+        <option value="$PROJECT_DIR$/templates/admin/edit symptom.html" />
+        <option value="$PROJECT_DIR$/templates/admin/symptom.html" />
+        <option value="$PROJECT_DIR$/templates/admin/view disease.html" />
+        <option value="$PROJECT_DIR$/templates/admin/view symptom2.html" />
+        <option value="$PROJECT_DIR$/templates/admin/symptom2.html" />
+        <option value="$PROJECT_DIR$/Admin.py" />
+        <option value="$PROJECT_DIR$/templates/Doctor/view diseases_dr.html" />
+        <option value="$PROJECT_DIR$/templates/admin/adminindex.html" />
+        <option value="$PROJECT_DIR$/templates/admin/edit disease.html" />
+        <option value="$PROJECT_DIR$/templates/Doctor/appointment.html" />
+        <option value="$PROJECT_DIR$/templates/Doctor/view profile.html" />
+        <option value="$PROJECT_DIR$/templates/Doctor/schedule_management.html" />
+        <option value="$PROJECT_DIR$/templates/Doctor/docindex.html" />
+        <option value="$PROJECT_DIR$/templates/index.html" />
+        <option value="$PROJECT_DIR$/static/login/css/style.css" />
+        <option value="$PROJECT_DIR$/templates/Doctor/regindex.html" />
+        <option value="$PROJECT_DIR$/static/doctorreg/css/style.css" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-9" />
+    <option name="y" value="-9" />
+    <option name="width" value="1938" />
+    <option name="height" value="1038" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Admin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="External Libraries" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="&lt; Python 3.6.2 (C:\Python36\python.exe) &gt;" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.NamedLibraryElementNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Admin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Admin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Admin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Admin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="templates" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Admin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Admin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="templates" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Doctor" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Admin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Admin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="templates" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="admin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Admin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Admin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="static" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Admin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Admin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="static" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="login" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="images" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Admin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Admin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="static" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="login" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="fonts" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Admin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Admin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="static" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="login" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Admin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Admin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="static" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="doctorreg" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="images" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Admin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Admin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="static" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="doctorreg" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Admin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Admin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="static" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="doctorreg" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Admin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Admin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="static" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="doctor_img" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Templates" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\91773\PycharmProjects\Admin\static\doctorreg\images" />
+      <recent name="C:\Users\91773\PycharmProjects\Admin\static\login\images" />
+      <recent name="C:\Users\91773\PycharmProjects\Admin\static\admin\img" />
+      <recent name="C:\Users\91773\PycharmProjects\Admin\static\dataset" />
+      <recent name="C:\Users\91773\PycharmProjects\Admin\static\dataset\vitiligo" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\91773\PycharmProjects\Admin\static" />
+      <recent name="C:\Users\91773\PycharmProjects\Admin\static\admin" />
+      <recent name="C:\Users\91773\PycharmProjects\Admin\templates\admin" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.Admin">
+    <configuration default="false" name="training_file" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Admin" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/training_file.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="DjangoTestsConfigurationType" factoryName="Django tests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Admin" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="TARGET" value="" />
+      <option name="SETTINGS_FILE" value="" />
+      <option name="CUSTOM_SETTINGS" value="false" />
+      <option name="USE_OPTIONS" value="false" />
+      <option name="OPTIONS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerJest" factoryName="Jest">
+      <node-interpreter value="project" />
+      <working-dir value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PyBehaveRunConfigurationType" factoryName="Behave">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Admin" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PyLettuceRunConfigurationType" factoryName="Lettuce">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Admin" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Admin" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <module name="Admin" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Admin" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Admin" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;.&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Admin" type="PythonConfigurationType" factoryName="Python" singleton="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Admin" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Admin.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <list size="2">
+      <item index="0" class="java.lang.String" itemvalue="Python.Admin" />
+      <item index="1" class="java.lang.String" itemvalue="Python.training_file" />
+    </list>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="Python.training_file" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="98c53818-7c89-4d64-a40c-4e81c1cfed3f" name="Default" comment="" />
+      <created>1663744285696</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1663744285696</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-9" y="-9" width="1938" height="1038" extended-state="0" />
+    <layout>
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25104168" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.34850165" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Admin.py</url>
+          <line>133</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="jinja2-line">
+          <url>file://$PROJECT_DIR$/templates/admin/edit disease.html</url>
+          <line>10</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="7" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/static/admin/img/service-3.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/admin/img/testimonial.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/admin/img/team-4.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/admin/img/team-3.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/admin/img/testimonial-3.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/admin/img/testimonial-1.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/admin/img/service-6.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/admin/img/service-5.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/admin/img/service-2.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/admin/img/pricing.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/admin/img/service-4.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/admin/img/service-1.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/admin/login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/admin/img/front-view-hands-wearing-protective-gloves.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/admin/img/close-up-hand-holding-magnifying-glass.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/Doctor/doctorhome.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/doctor_img/230111-135643.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/doctor_img/230111-130323.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/doctorreg/images/profile.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/Doctor/view diseases_dr.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="18" column="32" lean-forward="false" selection-start-line="18" selection-start-column="32" selection-end-line="18" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/Doctor/predict symptom.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/Doctor/appointment.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="15" column="9" lean-forward="false" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/admin/edit symptom.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="1" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/Doctor/view profile.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="41" column="68" lean-forward="false" selection-start-line="41" selection-start-column="68" selection-end-line="41" selection-end-column="68" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/admin/edit disease.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="38" column="21" lean-forward="true" selection-start-line="38" selection-start-column="10" selection-end-line="38" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/Doctor/password.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="7" column="48" lean-forward="false" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="48" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/Doctor/view appointment.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/Doctor/addschedule.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-126">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/Doctor/schedule_management.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="12" column="9" lean-forward="false" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/admin/home.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/Doctor/docindex.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="203">
+          <caret line="95" column="83" lean-forward="false" selection-start-line="95" selection-start-column="83" selection-end-line="95" selection-end-column="83" />
+          <folding>
+            <marker date="1680503894736" expanded="false" signature="6175:6195" ph="..." />
+            <marker date="1680503894736" expanded="false" signature="7283:7303" ph="..." />
+            <marker date="1680503894736" expanded="false" signature="8387:8407" ph="..." />
+            <marker date="1680503894736" expanded="false" signature="34014:34031" ph="..." />
+            <marker date="1680503894736" expanded="false" signature="37810:37824" ph="..." />
+            <marker date="1680503894736" expanded="false" signature="38715:38721" ph="©" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/doctorreg/images/weblogo2.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/doctorreg/images/registrationimage.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/doctorreg/images/login.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/admin/aindex.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="19" column="41" lean-forward="false" selection-start-line="19" selection-start-column="41" selection-end-line="19" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/admin/adminindex.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="764">
+          <caret line="111" column="32" lean-forward="false" selection-start-line="107" selection-start-column="18" selection-end-line="115" selection-end-column="26" />
+          <folding>
+            <marker date="1677148134786" expanded="false" signature="37932:37946" ph="..." />
+            <marker date="1677148134786" expanded="false" signature="38725:38731" ph="©" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/doctorreg/images/banner1.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/Doctor/registerindex.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1300">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/doctorreg/css/font-awesome.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-10773">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/admin/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1155">
+          <caret line="55" column="4" lean-forward="false" selection-start-line="55" selection-start-column="0" selection-end-line="55" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/admin/scss/style.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="149">
+          <caret line="169" column="23" lean-forward="false" selection-start-line="169" selection-start-column="20" selection-end-line="169" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/login/css/font-awesome.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3297">
+          <caret line="167" column="16" lean-forward="false" selection-start-line="167" selection-start-column="2" selection-end-line="167" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/admin/css/style.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-13371">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="38" column="35" lean-forward="false" selection-start-line="38" selection-start-column="35" selection-end-line="38" selection-end-column="35" />
+          <folding>
+            <marker date="1680506259293" expanded="false" signature="2684:2690" ph="©" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/login/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1197">
+          <caret line="84" column="11" lean-forward="true" selection-start-line="84" selection-start-column="11" selection-end-line="84" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Admin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="353" column="38" lean-forward="false" selection-start-line="353" selection-start-column="38" selection-end-line="353" selection-end-column="38" />
+          <folding>
+            <element signature="e#1#20#0" expanded="true" />
+            <marker date="1677138221026" expanded="true" signature="520:534" ph="select * fro... doctor" />
+            <marker date="1677138221026" expanded="true" signature="520:539" ph="select * fro... login" />
+            <marker date="1677138221026" expanded="true" signature="520:545" ph="select * fro... login" />
+            <marker date="1677138221026" expanded="true" signature="520:556" ph="select * fro... login" />
+            <marker date="1677138221026" expanded="true" signature="520:569" ph="select * fro... login" />
+            <marker date="1677138221026" expanded="true" signature="520:572" ph="select * fro... login" />
+            <marker date="1677138221026" expanded="true" signature="520:573" ph="select * fro... login" />
+            <marker date="1677138221026" expanded="true" signature="520:583" ph="select * fro... login" />
+            <marker date="1677138221026" expanded="true" signature="520:584" ph="select * fro... login" />
+            <marker date="1677138221026" expanded="true" signature="520:597" ph="select * fro... login" />
+            <marker date="1677138221026" expanded="true" signature="1179:1222" ph="select * fro... doctor" />
+            <marker date="1677138221026" expanded="true" signature="1179:1236" ph="select * fro... doctor" />
+            <marker date="1677138221026" expanded="true" signature="1410:1468" ph="UPDATE `doct... " />
+            <marker date="1677138221026" expanded="true" signature="1410:1480" ph="UPDATE `doct... " />
+            <marker date="1677138221026" expanded="true" signature="1519:1577" ph="UPDATE `logi... " />
+            <marker date="1677138221026" expanded="true" signature="1519:1589" ph="UPDATE `logi... " />
+            <marker date="1677138221026" expanded="true" signature="1766:1832" ph="update `doct... " />
+            <marker date="1677138221026" expanded="true" signature="1772:1820" ph="DELETE FROM " />
+            <marker date="1677138221026" expanded="true" signature="1772:1832" ph="DELETE FROM " />
+            <marker date="1677138221026" expanded="true" signature="1923:1971" ph="SELECT * FRO... doctor" />
+            <marker date="1677138221026" expanded="true" signature="2543:2627" ph="insert into disease... " />
+            <marker date="1677138221026" expanded="true" signature="2569:2627" ph="INSERT INTO disease... " />
+            <marker date="1677138221026" expanded="true" signature="2745:2785" ph="select * fro... disease" />
+            <marker date="1677138221026" expanded="true" signature="2745:2794" ph="select * fro... disease" />
+            <marker date="1677138221026" expanded="true" signature="2745:2797" ph="select * fro... disease" />
+            <marker date="1677138221026" expanded="true" signature="3549:3562" ph="insert into disease... " />
+            <marker date="1677138221026" expanded="true" signature="3549:3712" ph="insert into disease... " />
+            <marker date="1677138221026" expanded="true" signature="3777:3918" ph="update disea... " />
+            <marker date="1677138221026" expanded="true" signature="4002:4145" ph="update disea... " />
+            <marker date="1677138221026" expanded="true" signature="4002:4146" ph="update disea... " />
+            <marker date="1677138221026" expanded="true" signature="4349:4370" ph="select * fro... disease" />
+            <marker date="1677138221026" expanded="true" signature="4550:4588" ph="delete from " />
+            <marker date="1677138221026" expanded="true" signature="4550:4592" ph="delete from " />
+            <marker date="1677138221026" expanded="true" signature="4550:4595" ph="delete from " />
+            <marker date="1677138221026" expanded="true" signature="4765:4786" ph="select * fro... disease" />
+            <marker date="1677138221026" expanded="true" signature="5006:5157" ph="select `symp... symptoms" />
+            <marker date="1677138221026" expanded="true" signature="5006:5167" ph="select `symp... symptoms" />
+            <marker date="1677138221026" expanded="true" signature="5006:5168" ph="select `symp... symptoms" />
+            <marker date="1677138221026" expanded="true" signature="5368:5389" ph="select * fro... disease" />
+            <marker date="1677138221026" expanded="true" signature="5425:5465" ph="SELECT DISTI... symptoms" />
+            <marker date="1677138221026" expanded="true" signature="5901:5951" ph="SELECT `Symp... symptoms" />
+            <marker date="1677138221026" expanded="true" signature="5901:5973" ph="SELECT `Symp... symptoms" />
+            <marker date="1677138221026" expanded="true" signature="5901:5975" ph="SELECT `Symp... symptoms" />
+            <marker date="1677138221026" expanded="true" signature="5901:5976" ph="SELECT `Symp... symptoms" />
+            <marker date="1677138221026" expanded="true" signature="6514:6576" ph="SELECT * FRO... disease" />
+            <marker date="1677138221026" expanded="true" signature="6983:7036" ph="SELECT * FRO... symptoms" />
+            <marker date="1677138221026" expanded="true" signature="7193:7242" ph="select * fro... disease" />
+            <marker date="1677138221026" expanded="true" signature="7420:7466" ph="delete from " />
+            <marker date="1677138221026" expanded="true" signature="7735:7798" ph="insert into symptoms... " />
+            <marker date="1677138221026" expanded="true" signature="8027:8090" ph="insert into symptoms... " />
+            <marker date="1677138221026" expanded="true" signature="8221:8346" ph="select `symp... symptoms" />
+            <marker date="1677138221026" expanded="true" signature="8547:8572" ph="select Sympt... symptoms" />
+            <marker date="1677138221026" expanded="true" signature="8547:8589" ph="select Sympt... symptoms" />
+            <marker date="1677138221026" expanded="true" signature="8547:8601" ph="select Sympt... symptoms" />
+            <marker date="1677138221026" expanded="true" signature="8841:8871" ph="update sympt... " />
+            <marker date="1677138221026" expanded="true" signature="8841:8884" ph="update sympt... " />
+            <marker date="1677138221026" expanded="true" signature="8841:8903" ph="update sympt... " />
+            <marker date="1677138221026" expanded="true" signature="8841:8929" ph="update sympt... " />
+            <marker date="1677138221026" expanded="true" signature="9113:9131" ph="select * fro... user" />
+            <marker date="1677138221026" expanded="true" signature="9277:9341" ph="SELECT * fro... feedback" />
+            <marker date="1677138221026" expanded="true" signature="9488:9549" ph="select * fro... reviews" />
+            <marker date="1677138221026" expanded="true" signature="10700:10779" ph="insert into login... " />
+            <marker date="1677138221026" expanded="true" signature="10823:10993" ph="insert into doctor... " />
+            <marker date="1677138221026" expanded="true" signature="11278:11339" ph="select * fro... doctor" />
+            <marker date="1677138221026" expanded="true" signature="11505:11526" ph="select * fro... disease" />
+            <marker date="1677138221026" expanded="true" signature="11685:11750" ph="select * fro... doctor" />
+            <marker date="1677138221026" expanded="true" signature="12516:12747" ph="UPDATE docto... " />
+            <marker date="1677138221026" expanded="true" signature="12802:13061" ph="UPDATE docto... " />
+            <marker date="1677138221026" expanded="true" signature="13496:13584" ph="select * fro... login" />
+            <marker date="1677138221026" expanded="true" signature="13681:13762" ph="update login... " />
+            <marker date="1677138221026" expanded="true" signature="14432:14569" ph="insert into schedule... " />
+            <marker date="1677138221026" expanded="true" signature="14763:14785" ph="select * fro... schedule" />
+            <marker date="1677138221026" expanded="true" signature="14982:15036" ph="select * fro... schedule" />
+            <marker date="1677138221026" expanded="true" signature="15345:15476" ph="update sched... " />
+            <marker date="1677138221026" expanded="true" signature="15614:15666" ph="delete from " />
+            <marker date="1677138221026" expanded="true" signature="15854:15991" ph="SELECT * FRO... user" />
+            <marker date="1677138221026" expanded="true" signature="16157:16198" ph="select * fro... appointment" />
+            <marker date="1677138221026" expanded="true" signature="16360:16484" ph="SELECT * FRO... reviews" />
+            <marker date="1677138221026" expanded="true" signature="17289:17378" ph="insert into login... " />
+            <marker date="1677138221026" expanded="true" signature="17413:17588" ph="insert into user... " />
+            <marker date="1677138221026" expanded="true" signature="17808:17876" ph="update login... " />
+            <marker date="1677138221026" expanded="true" signature="18070:18113" ph="select * fro... user" />
+            <marker date="1677138221026" expanded="true" signature="18981:19003" ph="UPDATE USER " />
+            <marker date="1677138221026" expanded="true" signature="18981:19074" ph="UPDATE USER " />
+            <marker date="1677138221026" expanded="true" signature="18981:19120" ph="UPDATE USER " />
+            <marker date="1677138221026" expanded="true" signature="18981:19126" ph="UPDATE USER " />
+            <marker date="1677138221026" expanded="true" signature="18981:19138" ph="UPDATE USER " />
+            <marker date="1677138221026" expanded="true" signature="18981:19146" ph="UPDATE USER " />
+            <marker date="1677138221026" expanded="true" signature="18981:19147" ph="UPDATE USER " />
+            <marker date="1677138221026" expanded="true" signature="19220:19368" ph="UPDATE USER " />
+            <marker date="1677138221026" expanded="true" signature="19536:19556" ph="select * fro... doctor" />
+            <marker date="1677138221026" expanded="true" signature="19761:19809" ph="select * fro... schedule" />
+            <marker date="1677138221026" expanded="true" signature="20060:20154" ph="INSERT INTO `appointment`... " />
+            <marker date="1677138221026" expanded="true" signature="20379:20495" ph="INSERT INTO `feedback`... " />
+            <marker date="1677138221026" expanded="true" signature="20650:20671" ph="select * fro... disease" />
+            <marker date="1677138221026" expanded="true" signature="20834:20874" ph="SELECT DISTI... symptoms" />
+            <marker date="1677138221026" expanded="true" signature="21072:21282" ph="SELECT * FRO... appointment" />
+            <marker date="1677138221026" expanded="true" signature="21529:21614" ph="select * fro... login" />
+            <marker date="1677138221026" expanded="true" signature="23753:23771" ph="select * fro... glcm" />
+            <marker date="1677138221026" expanded="true" signature="24489:24535" ph="SELECT * FRO... disease" />
+            <marker date="1677138221026" expanded="true" signature="24489:24542" ph="SELECT * FRO... disease" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/doctorreg/images/welcome.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/doctorreg/images/doctrregbg.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/doctorreg/images/docregbg2.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/Doctor/regindex.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="30" column="45" lean-forward="false" selection-start-line="30" selection-start-column="45" selection-end-line="30" selection-end-column="45" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/doctorreg/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="33" column="58" lean-forward="false" selection-start-line="33" selection-start-column="58" selection-end-line="33" selection-end-column="58" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
